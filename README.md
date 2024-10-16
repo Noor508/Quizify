@@ -25,7 +25,7 @@ Quizify is a web-based application built with Streamlit that generates quizzes f
 - Python 3.x
 - An API key from Azure OpenAI
 - Streamlit installed (`pip install streamlit`)
-- A `.env` file for securely storing API keys
+
 
 ### Setup
 
@@ -34,3 +34,11 @@ Quizify is a web-based application built with Streamlit that generates quizzes f
    ```bash
    git clone https://github.com/your-username/quizify.git
    cd quizify
+
+   ```
+   pip install -r requirements.txt
+
+   ```
+   Run the Streamlit app:
+   streamlit run main.py
+
