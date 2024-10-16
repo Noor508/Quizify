@@ -1,6 +1,6 @@
 # Quizify - A Streamlit Quiz Generator App
 
-Quizify is a web-based application built with Streamlit that generates quizzes from YouTube transcripts and PDF files using the Azure OpenAI API. It includes user authentication, quiz generation, and scoring features. 
+Quizify is a web-based application built with Streamlit that generates quizzes from PDF files using the Azure OpenAI API. It includes user authentication, quiz generation, and scoring features. 
 
 ## Features
 
