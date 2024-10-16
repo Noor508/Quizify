@@ -36,9 +36,12 @@ Quizify is a web-based application built with Streamlit that generates quizzes f
    cd quizify
 
    ```
-   pip install -r requirements.txt
-
+   ### Run this command
    ```
-   Run the Streamlit app:
+   pip install -r requirements.txt
+   ```
+   
+   ### Run the Streamlit app:
+   ```
    streamlit run main.py
 
