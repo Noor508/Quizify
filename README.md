@@ -12,8 +12,8 @@ Quizify is a web-based application built with Streamlit that generates quizzes f
 
 ## Tech Stack
 
-- **Frontend**: React (for frontend UI)
-- **Backend**: Streamlit (Python-based framework for fast prototyping)
+- **Frontend**: Streamlit (for frontend UI)
+- **Backend**: LLM and pydantic model
 - **Database**: Pickle files for user data (or upgrade to a database such as SQLite or Firebase)
 - **API**: Azure OpenAI API for generating questions
 
